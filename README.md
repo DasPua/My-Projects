@@ -1,2 +1,2 @@
-# My-Projects
-This is my first repository which will include all my projects  
+# CAT-DOG CLASSIFIER
+This project is based on CNN model and it differentiates between cat and dog images. 
